@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Tablas/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/composer" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Tablas/vendor/sebastian/environment" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/Tablas/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>

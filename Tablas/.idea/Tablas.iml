@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Tablas/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/Tablas/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/phpunit/phpunit-mock-objects" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/Tablas/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
